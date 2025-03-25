@@ -23,7 +23,7 @@ which I named it 'FoCoMUR' styling system
 /*  # -------------------------------------------------- #
     #                   Foundation                       #
     # -------------------------------------------------- # */
-:root {
+    :root {
     /* *Elements Spacing */
     --web-spacing-section-padding-default: 1.5rem;
     --web-spacing-list-indent-default: 1.25rem;
@@ -82,24 +82,17 @@ which I named it 'FoCoMUR' styling system
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 html {
     padding: 1rem;
-
     font-size: 1rem;
-}
-
-body {
-    margin: 0;
-    padding: 0;
-
-    font-family: Helvetica, Arial, sans-serif;
 }
 
 hr {
     margin-bottom: var(--web-paragraph-space-12pt-single-line);
-
+    opacity: 10%;
     border: 0.125rem solid var(--color-solid-black);
 }
 
@@ -114,10 +107,24 @@ hr {
     border-radius: 0.25rem;
     margin-bottom: 1rem;
     padding: 0.5rem;
-
     background-color: var(--color-light-gray);
+    display: flex;
+    justify-content: space-between;
+    position: relative;
 }
-
+.logo::before{
+    font-size: 1.6em;
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(to right,rgb(81, 153, 212),rgb(45, 45, 214));
+    transition: .3s;
+}
+.logo:hover::before{
+    height: 2px;
+}
 .nav-menu__list {
     list-style-type: none;
 }
